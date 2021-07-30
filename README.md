@@ -1,6 +1,5 @@
 - 👋 Olá eu sou Charles G. Braga
 - 🌱 Atualmente estudando TDD com Ruby
-- 📫 How to reach me ...
 
 <!---
 CharlesGBraga/CharlesGBraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
