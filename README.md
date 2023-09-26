@@ -1,4 +1,4 @@
-<h1> Olá, eu sou Charles G. Braga </h1>
+<h1> <a href="https://www.linkedin.com/in/charlesbraga/">Olá, eu sou Charles G. Braga</a></h1>
 <p>Ruby on Rails development</p>
 
 <div>
