@@ -2,7 +2,7 @@
 <p>Ruby on Rails development</p>
 
 <div>
-  <a href="https://github.com/CharlesGBraga">
+  <a href="https://www.linkedin.com/in/charlesbraga/">
   <img height="168em" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesGBraga&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="168em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesGBraga&&layout=compact&hide=shell&theme=jolly"/>
 </div>
