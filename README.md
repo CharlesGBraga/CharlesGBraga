@@ -29,11 +29,9 @@ Desenvolvedor focado no ecossistema Ruby, trabalhando com sistemas escaláveis e
 ---
 
 ### 🐍 Snake Game
-*(Mantenha esta seção para a animação do jogo da cobrinha continuar funcionando)*
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharlesGBraga/CharlesGBraga/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CharlesGBraga/CharlesGBraga/output/github-contribution-grid-snake.svg">
-  </picture>
+<div> 
+  <a href = "mailto:charlesbraga60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/charlesbraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/CharlesGBraga/CharlesGBraga/blob/output/github-contribution-grid-snake.svg)
 </div>
