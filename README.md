@@ -17,8 +17,7 @@ Desenvolvedor focado no ecossistema Ruby, trabalhando com sistemas escaláveis e
 
 *   🔭 Atualmente trabalhando na **Sólides**.
 *   ⚡ Especialista em **Ruby on Rails**, **Docker** e **Kubernetes**.
-*   🧠 Interessado em **IA** e o projeto **Kubo**.
-*   🥋 Pai da Lívia e entusiasta de **Jiu-Jitsu**.
+*   🧠 Interessado em **IA**.
 
 ---
 
