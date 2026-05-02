@@ -1,26 +1,40 @@
-<h1> <a href="https://www.linkedin.com/in/charlesbraga/">Olá, eu sou Charles G. Braga</a></h1>
-<p>Ruby on Rails development</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=008080&height=200&section=header&text=Charles%20Braga&fontSize=70&animation=fadeIn" width="100%" />
 
-<div>
-  <a href="https://www.linkedin.com/in/charlesbraga/">
-  <img height="168em" align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesGBraga&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="168em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesGBraga&&layout=compact&hide=shell&theme=jolly"/>
-</div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
+  <h3>🚀 Full Stack Developer @ Sólides</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
 </div>
 
-##
+---
 
-<div> 
-  <a href = "mailto:charlesbraga60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/charlesbraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/CharlesGBraga/CharlesGBraga/blob/output/github-contribution-grid-snake.svg)
+### 💻 Sobre Mim
+Desenvolvedor focado no ecossistema Ruby, trabalhando com sistemas escaláveis e ferramentas internas de alta performance.
+
+*   🔭 Atualmente trabalhando na **Sólides**.
+*   ⚡ Especialista em **Ruby on Rails**, **Docker** e **Kubernetes**.
+*   🧠 Interessado em **IA** e o projeto **Kubo**.
+*   🥋 Pai da Lívia e entusiasta de **Jiu-Jitsu**.
+
+---
+
+### 📊 Atividade no GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesGBraga&show_icons=true&theme=tokyonight&include_all_commits=true" />
+</div>
+
+---
+
+### 🐍 Snake Game
+*(Mantenha esta seção para a animação do jogo da cobrinha continuar funcionando)*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharlesGBraga/CharlesGBraga/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CharlesGBraga/CharlesGBraga/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
